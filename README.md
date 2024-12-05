@@ -1,7 +1,6 @@
 Hi I'm Jahnvi
-- I'm interested in web designing I’m interested in ...
-- 🌱 I’m currently learning frameworks
-- 💞️ I’m looking to collaborate on frontend projects
+- I'm interested in web designing 
+- 💞️ I’m looking to collaborate on fullstack projects
 
 
 <!---
